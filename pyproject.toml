@@ -9,7 +9,7 @@ version = "8.1.3"
 
 [tool.poetry.dependencies]
 argparse-dataclass = "^2.0.0"
-python = "^3.11"
+python = "^3.10"
 throttler = "^1.2.2"
 snakemake-interface-common = "^1.12.0"
 
